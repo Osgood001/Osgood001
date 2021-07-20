@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
 
 ## About [@Osgood001](https://github.com/Osgood001)
 
-- 👋 Hi, I’m @Osgood001
+- 👋 Hi, I’m Osgood001
 - 👀 I’m interested in Math&Physics via coding
-- 🌱 I’m currently learning Artificial Intellegence in Condensed matter physics
+- 🌱 I’m currently learning High Performance Computing in Condensed Matter Physics
 - 📫 This account will not be checked frequently as I hardly ever code on it.
 - ⚡ My personal blog: [Osgood's Blog](https://osgood001.github.io)
-- 📫 Feel free to reach me at 1756099156@qq.com
+- 📫 Feel free to reach me at shinggango@foxmail.com
 
 Last updated: July 20, 2021
