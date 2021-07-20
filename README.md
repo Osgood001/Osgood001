@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 - ⚡ My personal blog: [Osgood's Blog](https://osgood001.github.io)
 - 📫 Feel free to reach me at 1756099156@qq.com
 
-Last updated: June 5, 2021
+Last updated: July 20, 2021
