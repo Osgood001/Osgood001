@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<a href="https://github.com/chuan-325">
+<a href="https://github.com/osgood001">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osgood001&layout=compact" />
 </a>
 
