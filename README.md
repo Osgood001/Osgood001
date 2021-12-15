@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Osgood001
 - 👀 I’m interested in Math&Physics via coding
-- 🌱 I’m currently learning Artificial Inteligence with Condensed Matter Physics
+- 🌱 I’m currently learning Physics and are interested in **Quantum Algorithms**/**Electron Optics**/**Ab initial calculation**/**Lattice QCD**
 - 📫 This account will not be checked frequently as I hardly ever code on it.
 - ⚡ My personal blog: [Osgood's Blog](https://osgood001.github.io)
 - 📫 Feel free to reach me at shinggango@foxmail.com
