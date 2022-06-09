@@ -3,6 +3,7 @@ Osgood001/Osgood001 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+## Remember Who You Are
 
  Hi there 👋
 
