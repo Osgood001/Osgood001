@@ -11,30 +11,31 @@ You can click the Preview link to take a look at your changes.
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Osgood001&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 
-<br>
+<!-- <br>
 
 <a href="https://github.com/osgood001">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osgood001&layout=compact" />
 </a>
 
-<br>
+<br> -->
 
 ## About [@Osgood001](https://github.com/Osgood001)
 
 - 👋 Hi, I’m Osgood001
 - 👀 I’m interested in Math,Physics and Programming, and mainly write in Python.
-- 🌱 I’m currently learning Physics and are interested in **Quantum Algorithms**/**Electron Optics**/**Ab initial calculation**/**Lattice QCD**
+- 🌱 I’m currently learning Physics and are interested in **AI + Science**
 - 📫 This account will not be checked frequently.
 - ⚡ My personal blog: [Osgood's Blog](https://osgood001.github.io)
 - 📫 Feel free to reach me at shinggango@foxmail.com
 - 💠 Recent schedule: 
-  - Data Science with Python/Origin
-  - Realization of the main content in abstrac algbra text written by Alexei I Kostrikin.
-  - Realization of the main content in Quantum Mechanics(Griffiths Edition).
-  - Generate Data for Lattice QCD.
-  - Design Electron Optical Pathway with COMSOL.
-  - Build a interactive Web app with Javascript and Vue.
-  - Build Quantum Algorithms for Hatree-Fock Method.
+       - Survive the Final Exams 
+<!--   - Data Science with Python/Origin -->
+<!--   - Realization of the main content in abstrac algbra text written by Alexei I Kostrikin. -->
+<!--   - Realization of the main content in Quantum Mechanics(Griffiths Edition). -->
+<!--   - Generate Data for Lattice QCD. -->
+<!--   - Design Electron Optical Pathway with COMSOL. -->
+<!--   - Build a interactive Web app with Javascript and Vue. -->
+<!--   - Build Quantum Algorithms for Hatree-Fock Method. -->
 <!--   - Take up learning Unity and build small games for fun.
-  - Social community research: Based on Bilibili and QQ zone.
-  - Read basics on AI,finance,Linguistic Acoustics. -->
+<!--   - Social community research: Based on Bilibili and QQ zone. -->
+<!--   - Read basics on AI,finance,Linguistic Acoustics. --> -->
