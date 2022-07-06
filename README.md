@@ -25,10 +25,13 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in Math,Physics and Programming, and mainly write in Python.
 - 🌱 I’m currently learning Physics and are interested in **AI + Science**
 - 📫 This account will not be checked frequently.
-- ⚡ My personal blog: [Osgood's Blog](https://osgood001.github.io)
+- ⚡ My personal blog: [Osgood's Blog](https://osgood001.github.io) (I removed all articles temporarily, and will keep adding to it in the future)
 - 📫 Feel free to reach me at shinggango@foxmail.com
 - 💠 Recent schedule: 
-       - Survive the Final Exams 
+  - 🎶 working on an accoustic project: simulate voice in the bathroom
+  - 📜 read ML related articles
+  - 🎠 optimize algorithms for Molecular Dynamics ( And plot the phase diagram )
+<!--   - Survive the Final Exams -->
 <!--   - Data Science with Python/Origin -->
 <!--   - Realization of the main content in abstrac algbra text written by Alexei I Kostrikin. -->
 <!--   - Realization of the main content in Quantum Mechanics(Griffiths Edition). -->
@@ -38,4 +41,4 @@ You can click the Preview link to take a look at your changes.
 <!--   - Build Quantum Algorithms for Hatree-Fock Method. -->
 <!--   - Take up learning Unity and build small games for fun.
 <!--   - Social community research: Based on Bilibili and QQ zone. -->
-<!--   - Read basics on AI,finance,Linguistic Acoustics. --> -->
+<!--   - Read basics on AI,finance,Linguistic Acoustics. -->
