@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ My personal blog: [Osgood's Blog](https://osgood001.github.io) (I removed all articles temporarily, and will keep adding to it in the future)
 - 📫 Feel free to reach me at shinggango@foxmail.com
 - 💠 Recent schedule: 
-  - 🎶 working on an accoustic project: simulate voice in the bathroom
+<!-- - 🎶 working on an accoustic project: simulate voice in the bathroom -->
   - 📜 read ML related articles
   - 🎠 optimize algorithms for Molecular Dynamics ( And plot the phase diagram )
 <!--   - Survive the Final Exams -->
