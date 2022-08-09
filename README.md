@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Osgood001
 - 👀 I’m interested in Math,Physics and Programming, and mainly write in Python.
-- 🌱 I’m currently learning Physics and are interested in **AI + Science**
+- 🌱 I’m currently learning Physics and are interested in **AI For Science**, specifically for Molecular Dynamics $\cap$ ML
 - 📫 This account will not be checked frequently.
 - ⚡ My personal blog: [Osgood's Blog](https://osgood001.github.io) (I removed all articles temporarily, and will keep adding to it in the future)
 - 📫 Feel free to reach me at shinggango@foxmail.com
