@@ -24,14 +24,14 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Osgood001
 - 👀 I’m interested in Math,Physics and Programming, and mainly write in Python.
-- 🌱 I’m currently learning Physics and are interested in **AI For Science**, specifically for Molecular Dynamics $\cap$ ML
+- 🌱 I’m currently learning Physics and are interested in simulating real world.
 - 📫 This account will not be checked frequently.
-- ⚡ My personal blog: [Osgood's Blog](https://osgood001.github.io) (I removed all articles temporarily, and will keep adding to it in the future)
+- ⚡ My personal blog: [Osgood's Blog](https://osgood001.github.io)
 - 📫 Feel free to reach me at shinggango@foxmail.com
-- 💠 Recent schedule: 
+<!-- - 💠 Recent schedule:  -->
 <!-- - 🎶 working on an accoustic project: simulate voice in the bathroom -->
-  - 📜 read ML related articles
-  - 🎠 optimize algorithms for Molecular Dynamics ( And plot the phase diagram )
+<!--  - 📜 read ML related articles -->
+<!--  - 🎠 optimize algorithms for Molecular Dynamics ( And plot the phase diagram ) -->
 <!--   - Survive the Final Exams -->
 <!--   - Data Science with Python/Origin -->
 <!--   - Realization of the main content in abstrac algbra text written by Alexei I Kostrikin. -->
